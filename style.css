@@ -19,7 +19,7 @@ h3{
 }
    .flexable{
     display: flex;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 .sw{
     width: 50%;
@@ -28,6 +28,12 @@ h3{
 .sw img{
     width: 50%;
     
+}
+.bd{
+    color: dodgerblue;
+}
+.arm{
+    color: rgb(255, 0, 98);
 }
 
 .as{
@@ -46,7 +52,7 @@ h3{
 .dream-big{
     background-image: url(aaa.png);
 }
-experience{
+.experience{
     background-image: url(ddddd.png);
 }
 .developer{
