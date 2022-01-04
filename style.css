@@ -17,9 +17,9 @@ h3{
 .ar{
     color: blue;
 }
-section{
+   .flexable{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .sw{
     width: 50%;
@@ -33,7 +33,7 @@ section{
 .as{
     color: darkred;
 }
-.link{
+.link-button{
     text-decoration: none;
     background-color: chartreuse;
     padding: 0px;
@@ -45,4 +45,15 @@ section{
 }
 .dream-big{
     background-image: url(aaa.png);
+}
+experience{
+    background-image: url(ddddd.png);
+}
+.developer{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px darkturquoise;
 }
